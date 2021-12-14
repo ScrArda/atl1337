@@ -1,11 +1,13 @@
-![](<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/JCoXE97wyVYzw588dl/video" width="480"></iframe></div>)
+### Hi there 👋, my name is Arturs
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-This organization has no public members. You must be a member to see who’s a part of this organization.
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: PHP /  JAVA / JS / HTML / CSS / C# / C+/ C++
+Skills: VUE JS / REACT / JS / HTML / CSS
 
-- 💬 Ask me about Ruby 
+- 🔭 I’m currently working on this page. 
 
 
-[<img src='https://giphy.com/clips/southpark-south-park-episode-14-season-12-VMcIAuzJQFmhsysO4F' alt='instagram' height='40'>](https://www.instagram.com/ardamelhs/)  
+
 
