@@ -3,12 +3,16 @@
 #### for contact
 
 
-Skills: JS / J / PHP / PYTHON / C# / C++
+#### Languages 
+•JS 
+•J
+•PHP
+•PYTHON
+•C#
+•C++
 
-- 🔭 I’m currently working on this page. 
 
-
-![Hey  👋](https://camo.githubusercontent.com/53495eb302f7844010a91f8e74d39b55e424aa07193652e1551c30e5ef617b4f/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4e61784b743961537a4173704f2f67697068792e676966)
+![Hey  👋](https://camo.githubusercontent.com/4d900fe19e86c57aec05e066d12ca35927b055c43451dbf73dcce9e8f0343513/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d746865726f6e6579)
 
 
 
