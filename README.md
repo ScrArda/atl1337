@@ -5,8 +5,10 @@
 
 #### Languages 
 
-•JS 
+•JS
+
 •J
+
 •PHP
 •PYTHON
 •C#
