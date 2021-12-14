@@ -7,5 +7,5 @@ Skills: PHP /  JAVA / JS / HTML / CSS / C# / C+/ C++
 - 💬 Ask me about Ruby 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ardamelhs/)  
+[<img src='https://giphy.com/clips/southpark-south-park-episode-14-season-12-VMcIAuzJQFmhsysO4F' alt='instagram' height='40'>](https://www.instagram.com/ardamelhs/)  
 
